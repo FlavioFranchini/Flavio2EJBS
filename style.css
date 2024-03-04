@@ -1,1 +1,4 @@
-table{background-color: blue;}
+table
+{width: 1000; 
+align-items: center;
+}
