@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+}
+
+.logozinha{
+    background-color: #424E61;
+    display: flex;
+
+}
+.lista-logozinha{
+color: white;
+font-size: 23px;
+
+}
