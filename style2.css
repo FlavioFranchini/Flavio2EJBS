@@ -3,7 +3,7 @@ padding: 0;
 }
 
 .logozinha{
-    background-color: #424E61;
+    background-color: #424e61;
     display: flex;
     justify-content: space-around;
 }
@@ -14,11 +14,25 @@ font-size: 23px;
 }
 .lista-item{
 display: inline-block;
-color:purple
+color: white
 
 }
 .first-part{
     color: black;
 background-color: slateblue;
+padding: 15px;
 
 }
+.first-part{
+    background-image: linear-gradient(gray,white);
+    height: 500px;
+    padding: 100px;
+    color: white;
+}
+.primeiro-paragrafo{
+    padding: 15px;
+}
+.segundo-paragrafo{
+    padding: 15px;
+}
+
