@@ -3,7 +3,7 @@ padding: 0;
 }
 
 .logozinha{
-    background-color: #424e61;
+    background-image: linear-gradient(black, purple);
     display: flex;
     justify-content: space-around;
 }
@@ -14,7 +14,7 @@ font-size: 23px;
 }
 .lista-item{
 display: inline-block;
-color: white
+color: white;
 
 }
 .first-part{
@@ -24,7 +24,7 @@ padding: 15px;
 
 }
 .first-part{
-    background-image: linear-gradient(gray,white);
+    background-image: linear-gradient(purple, black);
     height: 500px;
     padding: 100px;
     color: white;
