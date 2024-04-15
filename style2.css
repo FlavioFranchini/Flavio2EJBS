@@ -6,6 +6,7 @@ padding: 0;
     background-image: linear-gradient(black, purple);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .lista-logozinha{
 color: white;
@@ -15,19 +16,17 @@ font-size: 23px;
 .lista-item{
 display: inline-block;
 color: white;
+padding: 15px
 
 }
-.first-part{
-    color: black;
-background-color: slateblue;
-padding: 15px;
 
-}
+
 .first-part{
     background-image: linear-gradient(purple, black);
     height: 500px;
     padding: 100px;
     color: white;
+    display: flex;
 }
 .primeiro-paragrafo{
     padding: 15px;
@@ -35,4 +34,9 @@ padding: 15px;
 .segundo-paragrafo{
     padding: 15px;
 }
+.imagem-do-estudante{
+width: 60%;
+}
+
+
 
