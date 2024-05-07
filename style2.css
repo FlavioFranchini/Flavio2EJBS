@@ -45,10 +45,22 @@ padding: 15px 0;
 .imagem-do-estudante{
 width: 45%;
 }
-.Estudantes{
+.titulo-estudantes{
 display: flex;
 justify-content: space-around;
 align-items: center;
+
+}
+.foto-minha{
+width: 25%;
+
+}
+.icone{
+    width: 30px;
+    padding: 20px;
+    justify-content: space-around;
+
+
 
 }
 
